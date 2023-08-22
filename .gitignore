@@ -1,0 +1,3 @@
+# Git ignore lazy-lock.json
+lazy-lock.json
+dbs.lua
