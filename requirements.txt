@@ -1,0 +1,7 @@
+gcc
+git
+lazygit
+npm
+neovim (v0.9.x)
+ripgrep
+sad
